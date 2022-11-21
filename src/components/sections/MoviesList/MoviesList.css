@@ -1,0 +1,5 @@
+.movieList {
+    max-width: 300px;
+    display: flex;
+    list-style: none;
+}

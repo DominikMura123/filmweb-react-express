@@ -1,0 +1,35 @@
+.form-popup {
+    position: fixed;
+    left: 20px;
+    top: 50px;
+    border: 1px solid;
+}
+
+.form-container {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.form-field {
+    margin: 5px;
+}
+
+.btn{
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    padding: 8px 15px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.btn-back{
+    background-color: rgb(134, 24, 24);
+}
+
+.btn-add{
+    background-color: rgb(17, 110, 59);
+}

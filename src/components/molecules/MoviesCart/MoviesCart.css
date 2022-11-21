@@ -1,0 +1,29 @@
+.movies-cart {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.label {
+    padding-top: 10px;
+}
+
+.btn-panel {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.btn {
+    color: white;
+    border: none;
+    cursor: pointer;
+    width: 50%;
+}
+
+.btn-cancel {
+    background-color: rgb(150, 20, 20);
+}
+
+.btn-edit {
+    background-color: rgb(209, 166, 24);
+}
